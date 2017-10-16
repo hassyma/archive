@@ -1,8 +1,5 @@
 # 深度学习
 
-### 计算机视觉
-
-- [Luminoth（计算机视觉工具包）](https://github.com/tryolabs/luminoth)
 
 
 ### 项目
@@ -17,3 +14,21 @@
 - [lasagne-draw](https://github.com/skaae/lasagne-draw):用RNN生成手写数字。
 - [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition):该代码实现了经过训练以产生古典音乐的循环神经网络。 该模型使用LSTM层并从卷积神经网络中吸取灵感，学习预测在音乐作品的每个时间步长中将播放哪些音符。
 
+### 计算机视觉
+
+#### 数据集
+- [斯坦福3D街景数据集](http://3drepresentation.stanford.edu/), [Github数据集](https://github.com/amir32002/3D_Street_View), [论文地址](http://cvgl.stanford.edu/papers/zamir_eccv16.pdf)， [城市3D街景示例](https://github.com/amir32002/3D_Street_View/tree/master/3D_cities_snapshots)
+
+#### 工具包
+- [Luminoth（计算机视觉工具包）](https://github.com/tryolabs/luminoth)
+
+
+
+### NLP
+
+#### 语料或词典
+
+- [同义词词林](https://www.ltp-cloud.com/download)：哈工大语言云
+
+#### 传统方法
+- [简易的中文纠错和消歧](https://github.com/taozhijiang/chinese_correct_wsd)， 包含`HIT-IRLab-同义词词林（扩展版）_full_2005.3.3.txt`
