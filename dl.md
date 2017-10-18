@@ -1,6 +1,8 @@
 # 深度学习
 
 
+- [machine-learning 合集](https://github.com/collections/machine-learning)
+
 
 ### 项目
 - [neural-style](https://github.com/jcjohnson/neural-style):提出了一种使用卷积神经网络将一幅图像的内容与另一幅图像的风格相结合的算法，该算法还可融合视频风格
@@ -37,3 +39,12 @@
 ### 数据集
 
 - [社交媒体假新闻检测数据集](https://github.com/KaiDMML/FakeNewsNet)
+- [medical-data](https://github.com/beamandrew/medical-data)
+
+
+# 机器学习
+
+### 工具包
+
+- [Shogun ](https://github.com/shogun-toolbox/shogun)：The Shogun Machine Learning Toolbox
+- [EasyML](https://github.com/ICT-BDA/EasyML): 基于数据流的可用于真实数据任务的机器学习框架，提供可拖拽的图形界面，底层支持docker, hadoop, spark, mp等
