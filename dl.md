@@ -32,3 +32,8 @@
 
 #### 传统方法
 - [简易的中文纠错和消歧](https://github.com/taozhijiang/chinese_correct_wsd)， 包含`HIT-IRLab-同义词词林（扩展版）_full_2005.3.3.txt`
+
+
+### 数据集
+
+- [社交媒体假新闻检测数据集](https://github.com/KaiDMML/FakeNewsNet)
