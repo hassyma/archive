@@ -12,9 +12,10 @@
 - [freemarker](http://freemarker.org/)
 
 
-## 接口管理
+## 接口
 - [DOCleve](http://doclever.cn/) : 接口管理平台, [github](https://github.com/sx1989827/DOClever)
-
+- [Springfox](http://springfox.github.io/springfox/docs/snapshot/):Spring boot整合Springfox在线生成restful的api doc, [实例](https://coding.net/u/kailingchen/p/SwaggerDemo/git)
+- [swagger](https://swagger.io/) : API 工具
 ## 微服务
 
 - [Spring boot](http://projects.spring.io/spring-boot/): 一套快速配置脚手架、快速开发单个微服务、实现服务治理、专注于快速、方便集成的单个微服务个体
