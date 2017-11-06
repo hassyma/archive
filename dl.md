@@ -1,10 +1,11 @@
-# 深度学习
+# 机器/深度学习
 
 
 - [machine-learning 合集](https://github.com/collections/machine-learning)
 
 
-### 项目
+
+#### 项目
 - [neural-style](https://github.com/jcjohnson/neural-style):提出了一种使用卷积神经网络将一幅图像的内容与另一幅图像的风格相结合的算法，该算法还可融合视频风格
 - [Magenta](https://github.com/tensorflow/magenta):Magenta是Google Brain团队的一个项目，通过使用机器学习让机器自主创造音乐，谱写曲子，主要通过tensorflow实现
 - [Deep Learning Flappy Bird](https://github.com/yenchenlin/DeepLearningFlappyBird):强化学习训练游戏AI通关flappy bird
@@ -16,6 +17,10 @@
 - [lasagne-draw](https://github.com/skaae/lasagne-draw):用RNN生成手写数字。
 - [biaxial-rnn-music-composition](https://github.com/hexahedria/biaxial-rnn-music-composition):该代码实现了经过训练以产生古典音乐的循环神经网络。 该模型使用LSTM层并从卷积神经网络中吸取灵感，学习预测在音乐作品的每个时间步长中将播放哪些音符。
 
+#### 库
+- [tensorlayer](https://github.com/zsdonghao/tensorlayer)：Deep Learning and Reinforcement Learning Library for Researcher and Engineer
+- [face_recognition_python](https://github.com/ageitgey/face_recognition):Python的开源人脸识别库：离线识别率高达99.38%
+
 ### 计算机视觉
 
 #### 数据集
@@ -23,7 +28,6 @@
 
 #### 工具包
 - [Luminoth（计算机视觉工具包）](https://github.com/tryolabs/luminoth)
-
 
 
 ### NLP
@@ -48,3 +52,4 @@
 
 - [Shogun ](https://github.com/shogun-toolbox/shogun)：The Shogun Machine Learning Toolbox
 - [EasyML](https://github.com/ICT-BDA/EasyML): 基于数据流的可用于真实数据任务的机器学习框架，提供可拖拽的图形界面，底层支持docker, hadoop, spark, mp等
+- [Apache PredictionIO](https://predictionio.apache.org/) : 开源机器学习服务。它旨在帮助开发人员和数据科学家为机器学习任务创建预测引擎和服务。
