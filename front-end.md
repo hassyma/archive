@@ -26,10 +26,14 @@
 - [select2](https://github.com/select2/select2/tags): 一款定制下拉选择框的插件，支持扩展、远程数据等
 - [swiper](http://www.swiper.com.cn/) : 纯JavaScript滑动特效插件，主要面向移动端
 - [Tourist.js](https://github.com/easelinc/tourist): 开源、简单的创建引导浏览的插件
+- [table-fixed-header](https://github.com/markmalek/Fixed-Header-Table):jQuery实现表格冻结插件
 
 ## JS
 
 - [Lozad.js](https://github.com/ApoorvSaxena/lozad.js) : 是一款基于 IntersectionObserver API 的高性能、轻量级（0.5kb）和可配置的懒加载器，纯 JavaScript ，无依赖，主要可用于延迟加载图片、iframe 、广告、视频和其他元素。
+- [Echo.js](https://github.com/toddmotto/echo):简单易用的图片延迟加载插件
+- [Layzr.js](https://github.com/callmecavs/layzr.js): 延迟加载图片
+- [better-scroll.js](https://github.com/ustbhuangyi/better-scroll): 小巧，灵活的 JavaScript 模拟滚动条的插件
 - [puppeteer](https://github.com/GoogleChrome/puppeteer) : 是用 JavaScript 测试 Web 应用程序的框架。作为自动化测试工具，在浏览器中执行的大多数事情都可以使用 Puppeteer 完成，比如：
 
     ● 从网站上刮下内容。
@@ -43,6 +47,11 @@
 - [highlight.js](https://github.com/isagalaev/highlight.js)： 语法高亮
 
 
+## CSS
+- [SASS](http://sass-lang.com/)：SASS和LESS是现在web前端的最主流的两个CSS预处理器
+- [LESS](http://lesscss.org/)：SASS和LESS是现在web前端的最主流的两个CSS预处理器
+
+
 ## 模板
 - [AdminLTE](https://adminlte.io/), [github](https://github.com/almasaeed2010/AdminLTE)
 - [ant-design-pro](https://github.com/ant-design/ant-design-pro) : 阿里推出的开箱即用前端 UI 方案
@@ -50,7 +59,10 @@
 ## 其他
 
 - [best-resume-ever](https://github.com/salomonelli/best-resume-ever) : 是一个帮助你快速生成漂亮简历的工具，它基于 Vue 和 LESS，生成的简历可导出为 PDF 格式。简历制作利器
+- [blog-data](https://github.com/accforgit/blog-data) : 元素跟随滚动、在线编辑器、抛物线小球、简单分页等博客的代码
 
+## TypeScript
+- [TypeScript](https://www.typescriptlang.org/) TypeScript是一种编译为JavaScript的静态类型语言。它增加了一些比较强大的功能，比如OOP模型和可选的静态类型，让我们的代码维护起来更容易。
 
 ## Vue.js
 - [Vue.js](https://cn.vuejs.org/)
@@ -59,3 +71,20 @@
 
 ## AngularJS
 - [AngularJS](https://angularjs.org/), 一个demo[angular-base](https://github.com/liepeng328/angular-base)
+
+
+## webassembly & Service Workers
+- [webassembly](http://webassembly.org/) :  是用来编写高性能的、浏览器无关的 Web 组件的一种字节码规范
+- Web平台在近期时间里收获了两个很大的发展--Web Assembly和Service Workers，以快速和高效的优点，弥补了与本地编译应用程序的差距。Service Workers尤其是渐进式Web应用程序的启动技术，还可以为Web平台的通知提供了有效的支持，在未来的发展中有更多的API出现。
+
+
+## Ember
+- 是JavaScript框架的另一个选择。它支持数据绑定，自动更新模板，组件和服务器端呈现。它相比其他主流框架，它更加的稳定和成熟，也是应用程序的一个好的选择。
+
+
+## React
+- 由于React自身的生态系统变得越来越复杂，初学者不是一个好的选择。但是它可以把GraphQL,Relay,Flux和Immutable.js组合成了一个完整的堆栈解决方案。
+
+
+## 加密
+- [cryptojs](https://github.com/brix/crypto-js)
